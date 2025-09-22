@@ -1,1 +1,2 @@
 # MetodeKomputasi2025
+ndikaaa
