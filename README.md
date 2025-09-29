@@ -1,2 +1,3 @@
 # MetodeKomputasi2025
-ndikaaa
+tes tes tes
+a
